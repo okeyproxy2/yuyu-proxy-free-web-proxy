@@ -42,6 +42,6 @@ While Yuyu Proxy fulfills basic proxy needs effectively, consider exploring Okey
 - **Professional Support**: Access to our professional support teams whenever you need assistance.
 - **Free Trial**: Every newly registered user can [get proxy free trial](https://www.okeyproxy.com/proxy?link=b63b57) now!
 
-![EN banner](https://github.com/okeyproxy2/yuyu-proxy-free-web-proxy/assets/155126786/c03316d2-7845-4133-b7d2-3a0e7a1e629f)
+[![okeyproxy](https://github.com/okeyproxy2/yuyu-proxy-free-web-proxy/assets/155126786/c03316d2-7845-4133-b7d2-3a0e7a1e629f)](https://www.okeyproxy.com/en/residential-proxies?link=b63b57)
 
 
